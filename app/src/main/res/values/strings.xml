@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Genderise App</string>
+    <string name="main_edit_hint">Your first name?</string>
+    <string name="main_you_are">You are…</string>
 </resources>
